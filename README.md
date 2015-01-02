@@ -1,7 +1,8 @@
 nmon
 ====
 
-A fork of nmon(http://nmon.sourceforge.net/)
+A fork of nmon(http://nmon.sourceforge.net/)  
+version 14i  
 
 nmon的特点：
 
